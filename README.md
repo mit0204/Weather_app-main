@@ -1,2 +1,2 @@
-# Weather_app-main
-I developed this Weather_app website using html, javascript and css.
+# Weather_app
+This is a weather app which tells weather of a location using an API
